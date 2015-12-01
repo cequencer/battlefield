@@ -1,4 +1,4 @@
 # battlefield
 battle-game for hackers
 
-![alt text](/media/stefano/SUPERMESS/root/coding/python/battlefield/play.png "play")
+![play](https://github.com/sirfoga/battlefield/blob/master/play.png "play")
