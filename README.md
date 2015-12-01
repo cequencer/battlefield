@@ -11,8 +11,7 @@ This is a game to play with your friends. You need to focus you attention on the
 4. **#play!** just read code snippet, see how it works and win
 5. **#winner** to see who won, the *master* might find it useful to run the script provided (![python](https://github.com/sirfoga/battlefield/blob/master/battlefield.py) and ![javascript](https://github.com/sirfoga/battlefield/blob/master/battlefield.js "javascript"))
 
-![play](https://github.com/sirfoga/battlefield/blob/master/play.png "play")
+![play](https://github.com/sirfoga/battlefield/blob/master/play.png)
 
-### License
+### ![License](https://github.com/sirfoga/battlefield/blob/master/LICENSE "Apache 2.0")
 ----
-![Apache License Version 2.0, January 2004](https://github.com/sirfoga/battlefield/blob/master/LICENSE "Apache License Version 2.0, January 2004")
