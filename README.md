@@ -1,4 +1,6 @@
 # battlefield
+### Battle-game for hackers
+---
 This is a game to play with your friends. You need to focus you attention on the moves your opponents can play and beat them using your Game Theory acknowledgements.
 
 ### Rules
@@ -9,9 +11,8 @@ This is a game to play with your friends. You need to focus you attention on the
 4. **#play!** just read code snippet, see how it works and win
 5. **#winner** to see who won, the *master* might find it useful to run the script provided (![python](https://github.com/sirfoga/battlefield/blob/master/battlefield.py "python") and ![javascript](https://github.com/sirfoga/battlefield/blob/master/battlefield.js "javascript"))
 
+![play](https://github.com/sirfoga/battlefield/blob/master/play.png "play")
+
 ### License
 ----
-Apache License Version 2.0, January 2004
-
-
-![play](https://github.com/sirfoga/battlefield/blob/master/play.png "play")
+![Apache License Version 2.0, January 2004](https://github.com/sirfoga/battlefield/blob/master/LICENSE "Apache License Version 2.0, January 2004")
