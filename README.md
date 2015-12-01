@@ -1,8 +1,4 @@
 # battlefield
-
-*battle-game for hackers*
----
-
 This is a game to play with your friends. You need to focus you attention on the moves your opponents can play and beat them using your Game Theory acknowledgements.
 
 ### Rules
