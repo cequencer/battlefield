@@ -14,4 +14,3 @@ This is a game to play with your friends. You need to focus you attention on the
 ![play](https://github.com/sirfoga/battlefield/blob/master/play.png)
 
 ### ![License](https://github.com/sirfoga/battlefield/blob/master/LICENSE "Apache 2.0")
-----
